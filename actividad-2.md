@@ -1,2 +1,2 @@
 ## Actividad 2
-![imagen](<Image 2.jpeg>)
+![imagen](/Images/Image2.jpeg)
