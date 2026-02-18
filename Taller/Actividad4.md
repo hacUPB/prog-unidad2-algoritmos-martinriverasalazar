@@ -1,0 +1,1 @@
+![Imagen](/Images/Diagrama%20combustible.jpg)
